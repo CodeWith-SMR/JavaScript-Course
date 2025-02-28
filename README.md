@@ -4,7 +4,7 @@
 
 Welcome to the **JavaScript Course** repository! 🚀 This course covers everything from **basic to advanced** JavaScript concepts with **practical examples** and **real-world projects**.
 
-![JavaScript Banner](https://www.freecodecamp.org/news/content/images/2021/07/javascriptfull.png)
+![JavaScript Banner](https://getflywheel.com/layout/wp-content/uploads/2021/07/The_Best_Java_Script_Libraries_1800x500-1-1800x500-1.jpeg)
 
 ## 📌 Features
 - ✅ Covers **Fundamentals** to **Advanced Topics**
