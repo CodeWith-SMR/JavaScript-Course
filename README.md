@@ -57,6 +57,6 @@ This project is licensed under the **MIT License**.
 ### 👨‍💻 Developed by **Muhammad Raza** | [CodeWithSMR](https://github.com/CodeWith-SMR)
 ### 🚀 Supported by **Modern Revolutionary IT Training (SMRIT)**
 
-![SMRIT Logo](https://www.canva.com/design/DAGfQMVUqAk/MYcoKajQpb2wMGFr9dA8JQ/edit?utm_content=DAGfQMVUqAk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![SMRIT Logo](https://www.facebook.com/share/p/15yX2EzY1w/)
 
 🚀 Happy Coding! 🎯
