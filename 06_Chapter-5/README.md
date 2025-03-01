@@ -1,4 +1,4 @@
- # Chapter 5: Data Types in JavaScript
+# Chapter 5: Data Types in JavaScript
 
 ## Introduction (English)
 
